@@ -4,7 +4,7 @@ Facultad de Ingeniería
 Inteligencia Artificial
 Grupo 02
 
-Profesora: Ing. Valentina Luisa Souza Rodríguez
+Profesor: Dr. José Abel Herrera Camacho
 Autor(es): Zuriel Zárate García, Aldo Abad Vásquez y Ana Laura Mendoza Millán
 Fecha: 14 de noviembre de 2022
 
@@ -14,7 +14,6 @@ Descripción: Programa que implementa el algorítmo A* para encontrar
 """
 
 import networkx as nx
-import graphviz
 import matplotlib
 import os
 
