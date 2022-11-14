@@ -1,20 +1,20 @@
 # Astrella
 
-Universidad Nacional Autónoma de México
-Facultad de Ingeniería
-Inteligencia Artificial
-Grupo 02
+#Universidad Nacional Autónoma de México
+#Facultad de Ingeniería
+#Inteligencia Artificial
+#Grupo 02
 
-Profesor: Dr. José Abel Herrera Camacho
-Autor(es): Zuriel Zárate García, Aldo Abad Vásquez y Ana Laura Mendoza Millán
-Fecha: 14 de noviembre de 2022
+#Profesor: Dr. José Abel Herrera Camacho
+#Autor(es): Zuriel Zárate García, Aldo Abad Vásquez y Ana Laura Mendoza Millán
+#Fecha: 14 de noviembre de 2022
 
-Descripción: Programa que implementa el algorítmo A* para encontrar 
+#Descripción: Programa que implementa el algorítmo A* para encontrar 
              la ruta óptima desde cualquier ciudad a Bucharest, con
              base en el mapa de Rumania.
              
 
-Instalación: 
+#Instalación: 
 
   1.- Verificar instalación de Python3
       Ejecute en terminal, powershell o cmd: $ python --version
