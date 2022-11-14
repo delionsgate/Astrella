@@ -15,6 +15,7 @@ Descripción: Programa que implementa el algorítmo A* para encontrar
              
 
 Instalación: 
+
   1.- Verificar instalación de Python3
       Ejecute en terminal, powershell o cmd: $ python --version
       En caso de no tenerlo instalado, visite el siguiente sitio y busque para su sistema operativo: https://www.python.org/downloads/
