@@ -148,8 +148,12 @@ def main():
         inicio = input("     Ingresa el nombre de la ciudad de inicio: ")
         if inicio in rb:
             print("     Si existe la ciudad")
-            ruta,costo = aEstrella(rb,ciudad,inicio)
-            flag = 1
+            if inicio == "Bucharest":
+                print("Ruta Final: []")
+                print("Costo total: 0 [km]")
+            else:
+                ruta,costo = aEstrella(rb,ciudad,inicio)
+                flag = 1
         else:
             os.system("cls")
             print("     No existe la ciudad que ingresaste. Intente de nuevo.")
